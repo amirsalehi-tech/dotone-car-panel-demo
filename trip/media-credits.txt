@@ -1,0 +1,31 @@
+DotOne Trip sample media
+
+All media below is free to use commercially, with the credits given here.
+
+tehran-guide.mp4
+Photo montage (5 photos, 4 seconds each, 1280x720, slow zoom), made from 1920 px
+versions of the photos below. The montage is available under CC BY-SA 4.0
+(https://creativecommons.org/licenses/by-sa/4.0/).
+
+- Darband, Tehran — Ninara, CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+  https://commons.wikimedia.org/wiki/File:Darband,_Tehran_(53765935336).jpg
+- Golestan palace,tehran — Shadi esmaeili, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Golestan_palace,tehran.jpg
+- Tehran, Milad Tower — Mehrraz, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Tehran,_Milad_Tower.jpg
+- Tabiat bridge itself — IRANforeever, CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
+  https://commons.wikimedia.org/wiki/File:Tabiat_bridge_itself.jpg
+- Bagh Ferdows Tehran — Mehrraz, CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Bagh_Ferdows_Tehran.jpg
+
+mirdamad.mp4 and mirdamad.jpg
+Mirdamad boulevard by Milad Mosapoor. The original is licensed for use with attribution.
+Video excerpt trimmed, re-encoded, and muted. Poster extracted from the excerpt.
+https://commons.wikimedia.org/wiki/File:Mirdamad_boulevard.ogv
+
+Dashboard photos supplied from Unsplash
+- tehran-skyline.jpg — Sajad Nori (rG41gpS2FKI)
+- classic-car.jpg — Wesley Tingey (2fBqe0w7bx8)
+- countryside.jpg — Sven (V7WkmXntA8M)
+- bleu-de-chanel.jpg — Jeroen den Otter (2b0JeJTEclQ)
+- omega-seamaster.jpg — John Torcasio (TJrkkhdB39E)
